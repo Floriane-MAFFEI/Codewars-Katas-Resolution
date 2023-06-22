@@ -60,7 +60,7 @@
 
 | Kata's name           | Level | Lien                                                             |
 |-----------------------|-------|------------------------------------------------------------------|
-| Grasshopper-Summation | 8 kyu | [Solution Grasshopper-Summation](8Kyu/Even-or-Odd/PHP/index.php) | 
+| Grasshopper-Summation | 8 kyu | [Solution Grasshopper-Summation](8Kyu/Grasshopper-Summation/SQL/index.sql) | 
 
 
 
