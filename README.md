@@ -4,7 +4,8 @@
 - [Solution-By-Level](#solution-by-level)
 - [Repository-Structure](#repository-structure)
 - [Kata-name-solved-sorted-by-languages](#kata-name-solved-sorted-by-languages)
-
+  - [PHP](#php)
+  - [SQL](#sql)
 
 ## Disclaimer
 
@@ -55,6 +56,11 @@
 |-------------|-------|--------------------------------------------------------|
 | Oven or Odd | 8 kyu | [Solution Even or Odd](8Kyu/Even-or-Odd/PHP/index.php) | 
 
+### SQL
+
+| Kata's name           | Level | Lien                                                             |
+|-----------------------|-------|------------------------------------------------------------------|
+| Grasshopper-Summation | 8 kyu | [Solution Grasshopper-Summation](8Kyu/Even-or-Odd/PHP/index.php) | 
 
 
 
