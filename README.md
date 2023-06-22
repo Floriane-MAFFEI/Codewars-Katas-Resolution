@@ -58,10 +58,12 @@
 
 ### SQL
 
-| Kata's name                        | Level | Lien                                                                                                         |
-|------------------------------------|-------|--------------------------------------------------------------------------------------------------------------|
-| Grasshopper-Summation              | 8 kyu | [Solution Grasshopper-Summation](8Kyu/Grasshopper-Summation/SQL/index.sql)                                   |
-| Adults only (SQL for Beginners #1) | 8 kyu | [Solution Adults only (SQL for Beginners #1)](8Kyu/Adults-only-%28SQL-for-Beginners-%231%29/SQL%2Findex.sql) | 
+| Kata's name                                   | Level | Lien                                                                                                                               |
+|-----------------------------------------------|-------|------------------------------------------------------------------------------------------------------------------------------------|
+| Grasshopper-Summation                         | 8 kyu | [Solution Grasshopper-Summation](8Kyu/Grasshopper-Summation/SQL/index.sql)                                                         |
+| Adults only (SQL for Beginners #1)            | 8 kyu | [Solution Adults only (SQL for Beginners #1)](8Kyu/Adults-only-%28SQL-for-Beginners-%231%29/SQL%2Findex.sql)                       | 
+| On the Canadian Border (SQL for Beginners #2) | 8 kyu | [Solution On The Canadian Border (SQL for Beginners #2)](8Kyu/On-The-Canadian-Border-%28SQL-for-beginners-%232%29/SQL%2Findex.sql) | 
+
 
 
 
