@@ -60,8 +60,8 @@
 
 | Kata's name                        | Level | Lien                                                                                                         |
 |------------------------------------|-------|--------------------------------------------------------------------------------------------------------------|
-| Grasshopper-Summation              | 8 kyu | [Solution Grasshopper-Summation](8Kyu/Even-or-Odd/PHP/index.php)                                             | 
-| Adults only (SQL for Beginners #1) | 8 kyu                              | [Solution Adults only (SQL for Beginners #1)](8Kyu/Adults-only-%28SQL-for-Beginners-%231%29/SQL%2Findex.sql) | 
+| Grasshopper-Summation              | 8 kyu | [Solution Grasshopper-Summation](8Kyu/Grasshopper-Summation/SQL/index.sql)                                   |
+| Adults only (SQL for Beginners #1) | 8 kyu | [Solution Adults only (SQL for Beginners #1)](8Kyu/Adults-only-%28SQL-for-Beginners-%231%29/SQL%2Findex.sql) | 
 
 
 
