@@ -3,6 +3,7 @@
 - [Disclaimer](#disclaimer)
 - [Solution-By-Level](#solution-by-level)
 - [Repository-Structure](#repository-structure)
+- [Kata-name-solved-sorted-by-languages](#kata-name-solved-sorted-by-languages)
 
 
 ## Disclaimer
@@ -20,7 +21,6 @@
 ## Solution By level
 
 [8 Kyu](https://github.com/Floriane-MAFFEI/Codewars-Katas-Resolution/tree/master/8Kyu)
-
 
 
 ## Repository Structure
@@ -47,6 +47,13 @@
 ...
 ```
 
+## Kata name solved sorted by languages
+
+### PHP
+
+| Kata's name | Level | Lien                                                   |
+|-------------|-------|--------------------------------------------------------|
+| Oven or Odd | 8 kyu | [Solution Even or Odd](8Kyu/Even-or-Odd/PHP/index.php) | 
 
 
 
