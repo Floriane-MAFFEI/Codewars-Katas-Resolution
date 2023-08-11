@@ -11,6 +11,7 @@
   - [Solution By level](#solution-by-level)
   - [Repository Structure](#repository-structure)
   - [Kata name solved sorted by languages](#kata-name-solved-sorted-by-languages)
+    - [JS (Javascript)](#js-javascript)
     - [PHP](#php)
     - [SQL](#sql)
 
@@ -56,6 +57,12 @@
 ```
 
 ## Kata name solved sorted by languages
+
+### JS (Javascript)
+
+| Kata's name | Level | Lien                                                   |
+|-------------|-------|--------------------------------------------------------|
+| Count by X | 8 kyu | [Solution Count by X](8Kyu/Count-by-X/JS/index.js) |
 
 ### PHP
 
