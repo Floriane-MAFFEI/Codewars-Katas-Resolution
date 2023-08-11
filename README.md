@@ -1,11 +1,18 @@
-# Codewars Katas Resolution
+# Codewars Katas Resolution 
 
-- [Disclaimer](#disclaimer)
-- [Solution-By-Level](#solution-by-level)
-- [Repository-Structure](#repository-structure)
-- [Kata-name-solved-sorted-by-languages](#kata-name-solved-sorted-by-languages)
-  - [PHP](#php)
-  - [SQL](#sql)
+## Level
+![image](https://www.codewars.com/users/WebFloCoding/badges/large)
+
+## Summary
+- [Codewars Katas Resolution](#codewars-katas-resolution)
+  - [Level](#level)
+  - [Summary](#summary)
+  - [Disclaimer](#disclaimer)
+  - [Solution By level](#solution-by-level)
+  - [Repository Structure](#repository-structure)
+  - [Kata name solved sorted by languages](#kata-name-solved-sorted-by-languages)
+    - [PHP](#php)
+    - [SQL](#sql)
 
 ## Disclaimer
 
@@ -62,9 +69,4 @@
 |-----------------------------------------------|-------|------------------------------------------------------------------------------------------------------------------------------------|
 | Grasshopper-Summation                         | 8 kyu | [Solution Grasshopper-Summation](8Kyu/Grasshopper-Summation/SQL/index.sql)                                                         |
 | Adults only (SQL for Beginners #1)            | 8 kyu | [Solution Adults only (SQL for Beginners #1)](8Kyu/Adults-only-%28SQL-for-Beginners-%231%29/SQL%2Findex.sql)                       | 
-| On the Canadian Border (SQL for Beginners #2) | 8 kyu | [Solution On The Canadian Border (SQL for Beginners #2)](8Kyu/On-The-Canadian-Border-%28SQL-for-beginners-%232%29/SQL%2Findex.sql) | 
-
-
-
-
-
+| On the Canadian Border (SQL for Beginners #2) | 8 kyu | [Solution On The Canadian Border (SQL for Beginners #2)](8Kyu/On-The-Canadian-Border-%28SQL-for-beginners-%232%29/SQL%2Findex.sql) |
