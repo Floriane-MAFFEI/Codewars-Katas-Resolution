@@ -67,6 +67,8 @@
 | Remove First and Last Character | 8 kyu | [Solution Remove First and Last Character](8Kyu/Remove-First-and-Last-Character/JS/index.js) |
 | Remove Keep Hydrated ! | 8 kyu |
 [Solution Keep Hydrated !](8Kyu/Keep-Hydrated-!/JS/index.js) |
+| Reversed sequence | 8 kyu |
+[Solution Reversed sequence](8Kyu/Reversed-Sequence/JS/index.js) |
 
 ### PHP
 
