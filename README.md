@@ -63,6 +63,7 @@
 | Kata's name | Level | Lien                                                   |
 |-------------|-------|--------------------------------------------------------|
 | Count by X | 8 kyu | [Solution Count by X](8Kyu/Count-by-X/JS/index.js) |
+| DNA to RNA Conversion | 8 kyu | [Solution DNA to RNA Conversion](8Kyu/DNA-to-RNA-Conversion/JS/index.js) |
 
 ### PHP
 
