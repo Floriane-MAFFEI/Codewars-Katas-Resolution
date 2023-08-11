@@ -64,6 +64,7 @@
 |-------------|-------|--------------------------------------------------------|
 | Count by X | 8 kyu | [Solution Count by X](8Kyu/Count-by-X/JS/index.js) |
 | DNA to RNA Conversion | 8 kyu | [Solution DNA to RNA Conversion](8Kyu/DNA-to-RNA-Conversion/JS/index.js) |
+| Remove First and Last Character | 8 kyu | [Solution Remove First and Last Character](8Kyu/Remove-First-and-Last-Character/JS/index.js) |
 
 ### PHP
 
