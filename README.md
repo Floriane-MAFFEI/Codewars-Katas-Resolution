@@ -63,6 +63,8 @@
 |-------------|-------|--------------------------------------------------------|
 | Oven or Odd | 8 kyu | [Solution Even or Odd](8Kyu/Even-or-Odd/PHP/index.php) |
 | Convert boolean values to strings 'Yes' or 'No' | 8 kyu | [Solution Convert boolean values to strings 'Yes' or 'No'](8Kyu/Convert-boolean-values-to-strings-'Yes'-or-'No'/PHP/index.php) | 
+| Sum Arrays | 8 kyu | [Solution Sums Array](8Kyu/Sum-Arrays/PHP/index.php) |
+
 
 ### SQL
 
