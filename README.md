@@ -80,7 +80,8 @@
 | Sum Arrays | 8 kyu | [Solution Sums Array](8Kyu/Sum-Arrays/PHP/index.php) |
 | Convert a string to an array | 8 kyu | [Solution Convert a string to an array](8Kyu/Convert-a-string-to-an-array/PHP/index.php) |
 | Will you make it ? | 8 kyu | [Solution Will you make it ?](8Kyu/Will-you-make-it-%3F/PHP/index.php) |
-| Find the smallest Integer in the array | 8 kyu | [Solution Will you make it ?Find the smallest Integer in the array](8Kyu/Find-the-smallest-Integer-in-the-array/index.js) |
+| Find the smallest Integer in the array | 8 kyu | [Solution Will you make it ?Find the smallest Integer in the](8Kyu/Will-you-make-it-%3F/PHP/index.php) |
+| Sum of positive | 8 kyu | [Solution Sum of positive](8Kyu/Sum-of-positive/index.php) |
 
 ### SQL
 
