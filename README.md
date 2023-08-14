@@ -68,6 +68,7 @@
 | Remove Keep Hydrated ! | 8 kyu | [Solution Keep Hydrated !](8Kyu/Keep-Hydrated-!/JS/index.js) |
 | Reversed sequence | 8 kyu |[Solution Reversed sequence](8Kyu/Reversed-Sequence/JS/index.js) |
 | You Can't Code Under Pressure #1 | 8 kyu |[Solution You Can't Code Under Pressure #1](8Kyu/Reversed-Sequence/JS/index.js) |
+| You only need one - Beginner | 8 kyu |[Solution only need one - Beginner](8Kyu/You-only-need-one-Beginner/index.js) |
 
 ### PHP
 
