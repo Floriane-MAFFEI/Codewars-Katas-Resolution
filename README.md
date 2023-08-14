@@ -95,3 +95,4 @@
 | Beginner Series #1 School Paperwork | 8 kyu | [Solution Beginner Series #1 School Paperwork](8Kyu/Beginner-Series-%231-School-Paperwork/SQL/index.sql) |
 | Grasshopper - Messi goals function | 8 kyu | [Solution Grasshopper - Messi goals function](8Kyu/Grasshopper-Messi-goals-function/SQL/index.sql) |
 | MakeUpperCase | 8 kyu | [Solution MakeUpperCase](8Kyu/MakeUpperCase/SQL/index.sql) |
+| SQL Basics: Simple SUM | 8 kyu | [Solution SQL Basics: Simple SUM](8Kyu/SQL-Basics-Simple-SUM/index.sql) |
