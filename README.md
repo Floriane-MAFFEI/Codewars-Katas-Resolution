@@ -67,6 +67,7 @@
 | Remove First and Last Character | 8 kyu | [Solution Remove First and Last Character](8Kyu/Remove-First-and-Last-Character/JS/index.js) |
 | Remove Keep Hydrated ! | 8 kyu | [Solution Keep Hydrated !](8Kyu/Keep-Hydrated-!/JS/index.js) |
 | Reversed sequence | 8 kyu |[Solution Reversed sequence](8Kyu/Reversed-Sequence/JS/index.js) |
+| You Can't Code Under Pressure #1 | 8 kyu |[Solution You Can't Code Under Pressure #1](8Kyu/Reversed-Sequence/JS/index.js) |
 
 ### PHP
 
@@ -76,7 +77,7 @@
 | Convert boolean values to strings 'Yes' or 'No' | 8 kyu | [Solution Convert boolean values to strings 'Yes' or 'No'](8Kyu/Convert-boolean-values-to-strings-'Yes'-or-'No'/PHP/index.php) | 
 | Sum Arrays | 8 kyu | [Solution Sums Array](8Kyu/Sum-Arrays/PHP/index.php) |
 | Convert a string to an array | 8 kyu | [Solution Convert a string to an array](8Kyu/Convert-a-string-to-an-array/PHP/index.php) |
-| Will you make it ? | 8 kyu | [Solution Will you make it ?](8Kyu/Will-you-make-it-%3F/PHP/index.php) |
+| Will you make it ? | 8 kyu | [Solution Will you make it ?](8Kyu/You-Can't-Code-Under-Pressure-%231/JS/index.js) |
 
 ### SQL
 
