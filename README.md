@@ -83,6 +83,7 @@
 | Find the smallest Integer in the array | 8 kyu | [Solution Will you make it ?Find the smallest Integer in the](8Kyu/Will-you-make-it-%3F/PHP/index.php) |
 | Sum of positive | 8 kyu | [Solution Sum of positive](8Kyu/Sum-of-positive/index.php) |
 | Reversed sequence | 8 kyu |[Solution Reversed sequence](8Kyu/Reversed-Sequence/PHP/index.php) |
+| Reversed string | 8 kyu |[Solution Reversed string](8Kyu/Reversed-String/PHP/index.php) |
 
 ### SQL
 
