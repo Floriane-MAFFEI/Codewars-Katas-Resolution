@@ -94,3 +94,4 @@
 | On the Canadian Border (SQL for Beginners #2) | 8 kyu | [Solution On The Canadian Border (SQL for Beginners #2)](8Kyu/On-The-Canadian-Border-%28SQL-for-beginners-%232%29/SQL%2Findex.sql) | 
 | Beginner Series #1 School Paperwork | 8 kyu | [Solution Beginner Series #1 School Paperwork](8Kyu/Beginner-Series-%231-School-Paperwork/SQL/index.sql) |
 | Grasshopper - Messi goals function | 8 kyu | [Solution Grasshopper - Messi goals function](8Kyu/Grasshopper-Messi-goals-function/SQL/index.sql) |
+| MakeUpperCase | 8 kyu | [Solution MakeUpperCase](8Kyu/MakeUpperCase/SQL/index.sql) |
