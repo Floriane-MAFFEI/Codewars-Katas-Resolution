@@ -86,6 +86,7 @@
 | Reversed string | 8 kyu |[Solution Reversed string](8Kyu/Reversed-String/PHP/index.php) |
 | Function 1 - hello world | 8 kyu |[Solution Function 1 - hello world](8Kyu/Function-1-hello-world/PHP) |
 | How good are you really ? | 8 kyu |[Solution How good are you really ?](8Kyu/How-good-are-you-really-%3F/PHP/index.php) |
+| Third Angle of a Triangle | 8 kyu |[Solution Third Angle of a Triangle](8Kyu/Third-Angle-of-a-Triangle/PHP/index.php) |
 
 ### SQL
 
