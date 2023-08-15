@@ -84,7 +84,7 @@
 | Sum of positive | 8 kyu | [Solution Sum of positive](8Kyu/Sum-of-positive/index.php) |
 | Reversed sequence | 8 kyu |[Solution Reversed sequence](8Kyu/Reversed-Sequence/PHP/index.php) |
 | Reversed string | 8 kyu |[Solution Reversed string](8Kyu/Reversed-String/PHP/index.php) |
-| Function 1 - hello world | 8 kyu |[Solution Function 1 - hello world](8Kyu/Function-1-hello-world/PHP/index.php) |
+| Function 1 - hello world | 8 kyu |[Solution Function 1 - hello world](8Kyu/Function-1-hello-world/PHP) |
 
 
 ### SQL
