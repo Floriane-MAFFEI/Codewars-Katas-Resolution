@@ -88,6 +88,7 @@
 | How good are you really ? | 8 kyu |[Solution How good are you really ?](8Kyu/How-good-are-you-really-%3F/PHP/index.php) |
 | Third Angle of a Triangle | 8 kyu |[Solution Third Angle of a Triangle](8Kyu/Third-Angle-of-a-Triangle/PHP/index.php) |
  Convert a String to a Number ! | 8 kyu | [Solution Convert a String to a Number !](8Kyu/Convert-a-String-to-a-Number-!/PHP/index.php) |
+| Descending Order | 7 kyu |[Solution Descending Order](7Kyu/Descending-Order/PHP/index.php) |
 
 ### SQL
 
