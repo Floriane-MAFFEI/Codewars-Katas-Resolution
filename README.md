@@ -70,6 +70,7 @@
 | You Can't Code Under Pressure #1 | 8 kyu |[Solution You Can't Code Under Pressure #1](8Kyu/Reversed-Sequence/JS/index.js) |
 | You only need one - Beginner | 8 kyu |[Solution You only need one - Beginner](8Kyu/You-only-need-one-Beginner/index.js) |
 | Sum Mixed Array | 8 kyu |[Solution Sum Mixed Array](8Kyu/Sum-Mixed-Array/JS/index.js) |
+| Function 1 - hello world | 8 kyu |[Solution Function 1 - hello world](8Kyu/Function-1-hello-world/JS) |
 
 ### PHP
 
