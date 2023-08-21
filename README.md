@@ -74,6 +74,7 @@
 | Remove exclamation marks | 8 kyu |[Solution Remove exclamation marks](8Kyu/Remove-exclamation-marks/JS/index.js) |
 | Counting sheep | 8 kyu |[Solution Counting sheep](8Kyu/Counting-sheep/JS/index.js) |
 | Binary Addition | 8 kyu |[Solution Binary Addition](8Kyu/Binary-Addition/JS/index.js) |
+| Convert number to reversed array of digits | 8 kyu |[Solution Convert number to reversed array of digits](8Kyu/Convert-number-to-reversed-array-of-digits/JS/index.js) |
 
 ### PHP
 
