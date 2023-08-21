@@ -72,6 +72,7 @@
 | Sum Mixed Array | 8 kyu |[Solution Sum Mixed Array](8Kyu/Sum-Mixed-Array/JS/index.js) |
 | Function 1 - hello world | 8 kyu |[Solution Function 1 - hello world](8Kyu/Function-1-hello-world/JS) |
 | Remove exclamation marks | 8 kyu |[Solution Remove exclamation marks](8Kyu/Remove-exclamation-marks/JS/index.js) |
+| Counting sheep | 8 kyu |[Solution Counting sheep](8Kyu/Counting-sheep/JS/index.js) |
 
 ### PHP
 
