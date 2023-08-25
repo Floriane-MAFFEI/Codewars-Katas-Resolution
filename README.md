@@ -113,3 +113,4 @@
 | Easy SQL : Rounding Decimals | 8 kyu | [Solution Easy SQL : Rounding Decimals](8Kyu/Easy-SQl-Rounding-Decimals/SQL/index.sql) |
 | Returning Strings | 8 kyu | [Solution Returning Strings](8Kyu/Returning-Strings/SQL/index.sql) |
 | Grasshopper - Check for factor | 8 kyu | [Solution Grasshopper - Check for factor](8Kyu/Grasshopper-Check-for-factor/SQL/index.sql) |
+| Simple multiplication | 8 kyu | [Solution Simple multiplication](8Kyu/Simple-multiplication/SQL/index.sql) |
