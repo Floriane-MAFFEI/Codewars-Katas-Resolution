@@ -76,6 +76,7 @@
 | Convert number to reversed array of digits | 8 kyu |[Solution Convert number to reversed array of digits](8Kyu/Convert-number-to-reversed-array-of-digits/JS/index.js) |
 | Binary Addition | 7 kyu |[Solution Binary Addition](7Kyu/Binary-Addition/JS/index.js) |
 | You're a square! | 7 kyu |[Solution You're a square!](7Kyu/You're-a-square/JS/index.js) |
+| Categorize New Member | 7 kyu |[Solution Categorize New Member](7Kyu/Categorize-New-Member/JS/index.js) |
 
 ### PHP
 
