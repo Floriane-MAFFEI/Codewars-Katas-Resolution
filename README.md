@@ -96,6 +96,7 @@
 | Third Angle of a Triangle | 8 kyu |[Solution Third Angle of a Triangle](8Kyu/Third-Angle-of-a-Triangle/PHP/index.php) |
  Convert a String to a Number ! | 8 kyu | [Solution Convert a String to a Number !](8Kyu/Convert-a-String-to-a-Number-!/PHP/index.php) |
 | Descending Order | 7 kyu |[Solution Descending Order](7Kyu/Descending-Order/PHP/index.php) |
+| Jaden Casing Strings | 7 kyu |[Solution Jaden Casing Strings](7Kyu/Jaden-Casing-Strings/PHP/index.php) |
 
 ### SQL
 
