@@ -114,4 +114,5 @@
 | Returning Strings | 8 kyu | [Solution Returning Strings](8Kyu/Returning-Strings/SQL/index.sql) |
 | Grasshopper - Check for factor | 8 kyu | [Solution Grasshopper - Check for factor](8Kyu/Grasshopper-Check-for-factor/SQL/index.sql) |
 | Simple multiplication | 8 kyu | [Solution Simple multiplication](8Kyu/Simple-multiplication/SQL/index.sql) |
-| SQL Basics - Trimming the Field | 8 kyu | [Solution SQL Basics - Trimming the Field](7Kyu/SQL-Basics-Trimming-the-Field/SQL/index.sql) |
+| Quarter of the year | 8 kyu | [Solution Quarter of the year](8Kyu/Quarter-of-the-year/SQL/index.sql) |
+| SQL Basics - Trimming the Field | 7 kyu | [Solution SQL Basics - Trimming the Field](7Kyu/SQL-Basics-Trimming-the-Field/SQL/index.sql) |
