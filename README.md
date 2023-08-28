@@ -119,3 +119,4 @@
 | 1.Find all active students | 8 kyu | [Solution 1.Find all active students](8Kyu/1.Find-all-active-students/SQL/index.sql) |
 | Function 2 - squaring an argument | 8 kyu | [Solution Function 2 - squaring an argument](8Kyu/Function-2-squaring-an-argument/SQL/index.sql) |
 | SQL Basics - Trimming the Field | 7 kyu | [Solution SQL Basics - Trimming the Field](7Kyu/SQL-Basics-Trimming-the-Field/SQL/index.sql) |
+| SQL Basics - Repeat and Reverse | 7 kyu | [Solution SQL Basics - Repeat and Reverse](7Kyu/SQL-Basics-Repeat-and-Reverse/SQL/index.sql) |
