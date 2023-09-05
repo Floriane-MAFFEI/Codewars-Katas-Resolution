@@ -98,6 +98,7 @@
  | Sentence Smash | 8 kyu |[Solution Sentence Smash](8Kyu/Sentence-Smash/PHP/index.php) |
 | Descending Order | 7 kyu |[Solution Descending Order](7Kyu/Descending-Order/PHP/index.php) |
 | Jaden Casing Strings | 7 kyu |[Solution Jaden Casing Strings](7Kyu/Jaden-Casing-Strings/PHP/index.php) |
+| Reverse Words | 7 kyu |[Solution Reverse Words](7Kyu/Reverse-Words/PHP/index.php) |
 
 ### SQL
 
