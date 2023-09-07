@@ -14,6 +14,7 @@
     - [JS (Javascript)](#js-javascript)
     - [PHP](#php)
     - [SQL](#sql)
+    - [PowerShell](#powershell)
 
 ## Disclaimer
 
@@ -30,6 +31,7 @@
 ## Solution By level
 
 [8 Kyu](https://github.com/Floriane-MAFFEI/Codewars-Katas-Resolution/tree/master/8Kyu)
+[7 Kyu](https://github.com/Floriane-MAFFEI/Codewars-Katas-Resolution/tree/master/7Kyu)
 
 
 ## Repository Structure
@@ -126,3 +128,8 @@
 | Vowel Count | 8 kyu | [Solution Vowel Count](8Kyu/Vowel-Count/SQL/index.sql) |
 | SQL Basics - Trimming the Field | 7 kyu | [Solution SQL Basics - Trimming the Field](7Kyu/SQL-Basics-Trimming-the-Field/SQL/index.sql) |
 | SQL Basics - Repeat and Reverse | 7 kyu | [Solution SQL Basics - Repeat and Reverse](7Kyu/SQL-Basics-Repeat-and-Reverse/SQL/index.sql) |
+
+### PowerShell
+
+| Kata's name | Level | Lien                                                   |
+|-------------|-------|--------------------------------------------------------|
