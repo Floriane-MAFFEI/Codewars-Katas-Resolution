@@ -99,6 +99,8 @@
 | Descending Order | 7 kyu |[Solution Descending Order](7Kyu/Descending-Order/PHP/index.php) |
 | Jaden Casing Strings | 7 kyu |[Solution Jaden Casing Strings](7Kyu/Jaden-Casing-Strings/PHP/index.php) |
 | Reverse Words | 7 kyu |[Solution Reverse Words](7Kyu/Reverse-Words/PHP/index.php) |
+| Complementary DNA | 7 kyu |[Solution Complementary DNA](7Kyu/Complementary-DNA/PHP/index.php) |
+
 
 ### SQL
 
