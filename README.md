@@ -133,3 +133,4 @@
 
 | Kata's name | Level | Lien                                                   |
 |-------------|-------|--------------------------------------------------------|
+| Beginner Series #2 Clock | 8 kyu | [Solution Beginner Series #2 Clock](8Kyu/Beginner-Series-%232-Clock/PowerShell/index.ps1) |
