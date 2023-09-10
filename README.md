@@ -103,6 +103,7 @@ Convert a String to a Number ! | 8 kyu | [Solution Convert a String to a Number 
 | Jaden Casing Strings | 7 kyu |[Solution Jaden Casing Strings](7Kyu/Jaden-Casing-Strings/PHP/index.php) |
 | Reverse Words | 7 kyu |[Solution Reverse Words](7Kyu/Reverse-Words/PHP/index.php) |
 | Complementary DNA | 7 kyu |[Solution Complementary DNA](7Kyu/Complementary-DNA/PHP/index.php) |
+| Highest and Lowest | 7 kyu |[Solution Highest and Lowest](7Kyu/Highest-and-Lowest/PHP/index.php) |
 
 
 ### SQL
