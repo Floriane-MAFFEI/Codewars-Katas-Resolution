@@ -99,6 +99,7 @@
 Convert a String to a Number ! | 8 kyu | [Solution Convert a String to a Number !](8Kyu/Convert-a-String-to-a-Number-!/PHP/index.php) |
 | Sentence Smash | 8 kyu |[Solution Sentence Smash](8Kyu/Sentence-Smash/PHP/index.php) |
 | I love you, a little, a lot, passionately ...not at all | 8 kyu |[Solution I love you, a little, a lot, passionately ...not at all](8Kyu/I-Love-you-a-little-a-lot-etc/PHP/index.php) |
+| Is the string uppercase ? | 8 kyu |[Solution Is the string uppercase ?](8Kyu/Is-the-string-uppercase/PHP/index.php) |
 | Descending Order | 7 kyu |[Solution Descending Order](7Kyu/Descending-Order/PHP/index.php) |
 | Jaden Casing Strings | 7 kyu |[Solution Jaden Casing Strings](7Kyu/Jaden-Casing-Strings/PHP/index.php) |
 | Reverse Words | 7 kyu |[Solution Reverse Words](7Kyu/Reverse-Words/PHP/index.php) |
