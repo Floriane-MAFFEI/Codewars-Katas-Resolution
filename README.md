@@ -102,6 +102,7 @@ Convert a String to a Number ! | 8 kyu | [Solution Convert a String to a Number 
 | Is the string uppercase ? | 8 kyu |[Solution Is the string uppercase ?](8Kyu/Is-the-string-uppercase/PHP/index.php) |
 | Basic Mathematical Operations | 8 kyu |[Solution Basic Mathematical Operations](8Kyu/Basic-Mathematical-Operations/PHP/index.php) |
 | Area or Perimeter | 8 kyu |[Solution Area or Perimeter](8Kyu/Area-or-Perimeter/PHP/index.php) |
+| Expressions Matter | 8 kyu |[Solution Expressions Matter](8Kyu/Expressions-Matter/PHP/index.php) |
 | Descending Order | 7 kyu |[Solution Descending Order](7Kyu/Descending-Order/PHP/index.php) |
 | Jaden Casing Strings | 7 kyu |[Solution Jaden Casing Strings](7Kyu/Jaden-Casing-Strings/PHP/index.php) |
 | Reverse Words | 7 kyu |[Solution Reverse Words](7Kyu/Reverse-Words/PHP/index.php) |
