@@ -15,6 +15,7 @@
     - [PHP](#php)
     - [SQL](#sql)
     - [PowerShell](#powershell)
+    - [Shell](#shell)
 
 ## Disclaimer
 
@@ -141,3 +142,9 @@ Convert a String to a Number ! | 8 kyu | [Solution Convert a String to a Number 
 | Kata's name | Level | Lien                                                   |
 |-------------|-------|--------------------------------------------------------|
 | Beginner Series #2 Clock | 8 kyu | [Solution Beginner Series #2 Clock](8Kyu/Beginner-Series-%232-Clock/PowerShell/index.ps1) |
+
+### Shell
+
+| Kata's name | Level | Lien                                                   |
+|-------------|-------|--------------------------------------------------------|
+| Keep up the hoop | 8 kyu | [Solution Keep up the hoop](8Kyu/Keep-up-the-hoop/Shell/index.bash) |
