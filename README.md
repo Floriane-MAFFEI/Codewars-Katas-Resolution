@@ -80,6 +80,7 @@
 | Binary Addition | 7 kyu |[Solution Binary Addition](7Kyu/Binary-Addition/JS/index.js) |
 | You're a square! | 7 kyu |[Solution You're a square!](7Kyu/You're-a-square/JS/index.js) |
 | Categorize New Member | 7 kyu |[Solution Categorize New Member](7Kyu/Categorize-New-Member/JS/index.js) |
+| Testing 1-2-3 | 7 kyu |[Solution Testing 1-2-3](7Kyu/Testing-1-2-3/JS/index.js) |
 
 ### PHP
 
