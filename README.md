@@ -149,3 +149,5 @@ Convert a String to a Number ! | 8 kyu | [Solution Convert a String to a Number 
 | Kata's name | Level | Lien                                                   |
 |-------------|-------|--------------------------------------------------------|
 | Keep up the hoop | 8 kyu | [Solution Keep up the hoop](8Kyu/Keep-up-the-hoop/Shell/index.bash) |
+| Grasshopper - Debug sayHello | 8 kyu | [Solution Grasshopper - Debug sayHello](8Kyu/Grasshopper-Debug-sayHello/Shell/index.bash) |
+
