@@ -78,6 +78,7 @@
 | Counting sheep | 8 kyu |[Solution Counting sheep](8Kyu/Counting-sheep/JS/index.js) |
 | Convert number to reversed array of digits | 8 kyu |[Solution Convert number to reversed array of digits](8Kyu/Convert-number-to-reversed-array-of-digits/JS/index.js) |
 | L1:Set Alarm | 8 kyu |[Solution L1:SetAlarm](8Kyu/L1-SetAlarm/JS/index.js) |
+| Beginner - Reduce but Grow | 8 kyu |[Solution Beginner - Reduce but Grow](8Kyu/Beginner-Reduce-but-Grow/JS/index.js) |
 | Binary Addition | 7 kyu |[Solution Binary Addition](7Kyu/Binary-Addition/JS/index.js) |
 | You're a square! | 7 kyu |[Solution You're a square!](7Kyu/You're-a-square/JS/index.js) |
 | Categorize New Member | 7 kyu |[Solution Categorize New Member](7Kyu/Categorize-New-Member/JS/index.js) |
