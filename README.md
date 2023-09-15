@@ -142,6 +142,7 @@ Convert a String to a Number ! | 8 kyu | [Solution Convert a String to a Number 
 | Vowel Count | 8 kyu | [Solution Vowel Count](8Kyu/Vowel-Count/SQL/index.sql) |
 | SQL Basics - Trimming the Field | 7 kyu | [Solution SQL Basics - Trimming the Field](7Kyu/SQL-Basics-Trimming-the-Field/SQL/index.sql) |
 | SQL Basics - Repeat and Reverse | 7 kyu | [Solution SQL Basics - Repeat and Reverse](7Kyu/SQL-Basics-Repeat-and-Reverse/SQL/index.sql) |
+| Best-Selling Books (SQL for Beginners #5) | 7 kyu | [Solution Best-Selling Books (SQL for Beginners #5)](7Kyu/Best-Selling-Books-SQL-for-Beginners-%235/SQL/index.sql) |
 
 ### PowerShell
 
