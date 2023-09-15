@@ -155,4 +155,5 @@ Convert a String to a Number ! | 8 kyu | [Solution Convert a String to a Number 
 |-------------|-------|--------------------------------------------------------|
 | Keep up the hoop | 8 kyu | [Solution Keep up the hoop](8Kyu/Keep-up-the-hoop/Shell/index.bash) |
 | Grasshopper - Debug sayHello | 8 kyu | [Solution Grasshopper - Debug sayHello](8Kyu/Grasshopper-Debug-sayHello/Shell/index.bash) |
+| Classic Hello World | 8 kyu | [Solution Classic Hello World](8Kyu/Classic-Hello-World/Shell/index.bash) |
 
