@@ -144,7 +144,7 @@ Convert a String to a Number ! | 8 kyu | [Solution Convert a String to a Number 
 | SQL Basics - Repeat and Reverse | 7 kyu | [Solution SQL Basics - Repeat and Reverse](7Kyu/SQL-Basics-Repeat-and-Reverse/SQL/index.sql) |
 | Best-Selling Books (SQL for Beginners #5) | 7 kyu | [Solution Best-Selling Books (SQL for Beginners #5)](7Kyu/Best-Selling-Books-SQL-for-Beginners-%235/SQL/index.sql) |
 | Easy SQL : Absolute Value and Log to Base | 7 kyu | [Solution Easy SQL : Absolute Value and Log to Base](7Kyu/Easy-SQL-Absolute-Value-and-Log-to-Base/SQL/index.sql) |
-| SQL Basics : Raise to the Power | 7 kyu | [Solution SQL Basics : Raise to the Power](7Kyu/SQL-Basics-Raise-to-the-Power/SQL/index.sql) |
+| SQL with Harry Potter : Sorting Hat Comparators | 7 kyu | [Solution SQL with Harry Potter : Sorting Hat Comparators](7Kyu/SQL-with-Harry-Potter-Sorting-Hat-Comparators/SQL/index.sql) |
 
 ### PowerShell
 
