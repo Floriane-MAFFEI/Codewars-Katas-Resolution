@@ -12,6 +12,7 @@
   - [Repository Structure](#repository-structure)
   - [Kata name solved sorted by languages](#kata-name-solved-sorted-by-languages)
     - [JS (Javascript)](#js-javascript)
+    - [Typescript](#typescript)
     - [PHP](#php)
     - [SQL](#sql)
     - [PowerShell](#powershell)
@@ -86,6 +87,12 @@
 | Categorize New Member | 7 kyu |[Solution Categorize New Member](7Kyu/Categorize-New-Member/JS/index.js) |
 | Testing 1-2-3 | 7 kyu |[Solution Testing 1-2-3](7Kyu/Testing-1-2-3/JS/index.js) |
 | Beginner Series #3 Sum of Numbers | 7 kyu |[Solution Beginner Series #3 Sum of Numbers](7Kyu/Beginner-Series-%233-Sum-of-Numbers/JS/index.js) |
+
+### Typescript
+
+| Kata's name | Level | Lien                                                   |
+|-------------|-------|--------------------------------------------------------|
+| Return Negative | 8 kyu | [Solution Return Negative](8Kyu/Return-Negative/TS/index.ts) |
 
 ### PHP
 
