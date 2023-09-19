@@ -93,6 +93,7 @@
 | Kata's name | Level | Lien                                                   |
 |-------------|-------|--------------------------------------------------------|
 | Return Negative | 8 kyu | [Solution Return Negative](8Kyu/Return-Negative/TS/index.ts) |
+| Calculate BMI | 8 kyu | [Solution Calculate BMI](8Kyu/Calculate-BMI/TS/index.ts) |
 
 ### PHP
 
