@@ -128,6 +128,7 @@ Convert a String to a Number ! | 8 kyu | [Solution Convert a String to a Number 
 | Highest and Lowest | 7 kyu |[Solution Highest and Lowest](7Kyu/Highest-and-Lowest/PHP/index.php) |
 | Highest and Lowest | 7 kyu |[Solution Highest and Lowest](7Kyu/Highest-and-Lowest/PHP/index.php) |
 | Exes and Ohs | 7 kyu |[Solution Exes and Ohs](7Kyu/Exes-and-Ohs/PHP/index.php) |
+| String ends with | 7 kyu |[Solution String ends with](7Kyu/String-ends-with/PHP/index.php) |
 
 
 ### SQL
