@@ -16,3 +16,9 @@ function solution($str, $ending) {
       }
       return (substr($str, -$len) === $ending);
   }
+
+// ou version plus optimisée
+
+function solution($str, $ending) {
+    return str_ends_with($str, $ending);
+  }
