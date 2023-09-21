@@ -14,6 +14,7 @@
     - [JS (Javascript)](#js-javascript)
     - [Typescript](#typescript)
     - [PHP](#php)
+    - [Ruby](#ruby)
     - [SQL](#sql)
     - [PowerShell](#powershell)
     - [Shell](#shell)
@@ -100,7 +101,7 @@
 
 | Kata's name | Level | Lien                                                   |
 |-------------|-------|--------------------------------------------------------|
-| Oven or Odd | 8 kyu | [Solution Even or Odd](8Kyu/Even-or-Odd/PHP/index.php) |
+| Convert a Number to a String | 8 kyu | [Solution Convert a Number to a String](8Kyu/Convert-a-Number-to-a-String/PHP/index.php) |
 | Convert boolean values to strings 'Yes' or 'No' | 8 kyu | [Solution Convert boolean values to strings 'Yes' or 'No'](8Kyu/Convert-boolean-values-to-strings-'Yes'-or-'No'/PHP/index.php) | 
 | Sum Arrays | 8 kyu | [Solution Sums Array](8Kyu/Sum-Arrays/PHP/index.php) |
 | Convert a string to an array | 8 kyu | [Solution Convert a string to an array](8Kyu/Convert-a-string-to-an-array/PHP/index.php) |
@@ -130,6 +131,12 @@ Convert a String to a Number ! | 8 kyu | [Solution Convert a String to a Number 
 | Highest and Lowest | 7 kyu |[Solution Highest and Lowest](7Kyu/Highest-and-Lowest/PHP/index.php) |
 | Exes and Ohs | 7 kyu |[Solution Exes and Ohs](7Kyu/Exes-and-Ohs/PHP/index.php) |
 | String ends with | 7 kyu |[Solution String ends with](7Kyu/String-ends-with/PHP/index.php) |
+
+### Ruby
+
+| Kata's name | Level | Lien                                                   |
+|-------------|-------|--------------------------------------------------------|
+| Convert a Number to a String | 8 kyu | [Solution Even or Odd](8Kyu/Convert-a-Number-to-a-String/Ruby/index.rb) |
 
 
 ### SQL
