@@ -136,8 +136,8 @@ Convert a String to a Number ! | 8 kyu | [Solution Convert a String to a Number 
 
 | Kata's name | Level | Lien                                                   |
 |-------------|-------|--------------------------------------------------------|
-| Convert a Number to a String | 8 kyu | [Solution Even or Odd](8Kyu/Convert-a-Number-to-a-String/Ruby/index.rb) |
-
+| Convert a Number to a String | 8 kyu | [Solution Convert a Number to a String](8Kyu/Convert-a-Number-to-a-String/Ruby/index.rb) |
+| Grasshopper - Personalized Message | 8 kyu | [Solution Grasshopper - Personalized Message](8Kyu/Grasshopper-Personalized-Message/Ruby/index.rb) |
 
 ### SQL
 
@@ -147,7 +147,7 @@ Convert a String to a Number ! | 8 kyu | [Solution Convert a String to a Number 
 | Adults only (SQL for Beginners #1)            | 8 kyu | [Solution Adults only (SQL for Beginners #1)](8Kyu/Adults-only-%28SQL-for-Beginners-%231%29/SQL%2Findex.sql)                       | 
 | On the Canadian Border (SQL for Beginners #2) | 8 kyu | [Solution On The Canadian Border (SQL for Beginners #2)](8Kyu/On-The-Canadian-Border-%28SQL-for-beginners-%232%29/SQL%2Findex.sql) | 
 | Beginner Series #1 School Paperwork | 8 kyu | [Solution Beginner Series #1 School Paperwork](8Kyu/Beginner-Series-%231-School-Paperwork/SQL/index.sql) |
-| Grasshopper - Messi goals function | 8 kyu | [Solution Grasshopper - Messi goals function](8Kyu/Grasshopper-Messi-goals-function/SQL/index.sql) |
+| Grasshopper-Messi goals -unction | 8 kyu | [Solution Grasshopper - Messi goals function](8Kyu/Grasshopper-Messi-goals-function/SQL/index.sql) |
 | MakeUpperCase | 8 kyu | [Solution MakeUpperCase](8Kyu/MakeUpperCase/SQL/index.sql) |
 | SQL Basics: Simple SUM | 8 kyu | [Solution SQL Basics: Simple SUM](8Kyu/SQL-Basics-Simple-SUM/index.sql) |
 | Collect Tuition (SQL for Beginners #4) | 8 kyu | [Solution Collect Tuition (SQL for Beginners #4)](8Kyu/Collect-Tuition-%28SQL-for-beginners-%234%29/SQL%2Findex.sql) |
