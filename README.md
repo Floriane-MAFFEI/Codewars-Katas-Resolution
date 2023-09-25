@@ -168,6 +168,7 @@ Convert a String to a Number ! | 8 kyu | [Solution Convert a String to a Number 
 | SQL with Harry Potter : Sorting Hat Comparators | 7 kyu | [Solution SQL with Harry Potter : Sorting Hat Comparators](7Kyu/SQL-with-Harry-Potter-Sorting-Hat-Comparators/SQL/index.sql) |
 | The Dunning-Kruger effect | 7 kyu | [Solution The Dunning-Kruger effect](7Kyu/The-Dunning-Kruger-effect/SQL/index.sql) |
 | Easy SQL : Bit Length | 7 kyu | [Solution Easy SQL : Bit Length](7Kyu/Easy-SQL-Bit-Length/SQL/index.sql) |
+| GROCERY STORE : Inventory | 7 kyu | [Solution GROCERY STORE : Inventory](7Kyu/GROCERY-STORE-Inventory/SQL/index.sql) |
 
 ### PowerShell
 
