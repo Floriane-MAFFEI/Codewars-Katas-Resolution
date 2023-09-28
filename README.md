@@ -140,6 +140,7 @@ Convert a String to a Number ! | 8 kyu | [Solution Convert a String to a Number 
 | Grasshopper - Personalized Message | 8 kyu | [Solution Grasshopper - Personalized Message](8Kyu/Grasshopper-Personalized-Message/Ruby/index.rb) |
 | Vowel remover | 8 kyu | [Solution Vowel remover](8Kyu/Vowel-remover/Ruby/index.rb) |
 | String repeat | 8 kyu | [Solution String repeat](8Kyu/String-repeat/Ruby/index.rb) |
+| Volume of a Cuboid | 8 kyu | [Solution Volume of a Cuboid](8Kyu/Volume-of-a-Cuboid/Ruby/index.rb) |
 
 
 ### SQL
