@@ -141,6 +141,7 @@ Convert a String to a Number ! | 8 kyu | [Solution Convert a String to a Number 
 | Vowel remover | 8 kyu | [Solution Vowel remover](8Kyu/Vowel-remover/Ruby/index.rb) |
 | String repeat | 8 kyu | [Solution String repeat](8Kyu/String-repeat/Ruby/index.rb) |
 | Volume of a Cuboid | 8 kyu | [Solution Volume of a Cuboid](8Kyu/Volume-of-a-Cuboid/Ruby/index.rb) |
+| Grasshopper - Basic Function Fixer | 8 kyu | [Solution Grasshopper - Basic Function Fixer](8Kyu/Grasshopper-Basic-Function-Fixer/Ruby/index.rb) |
 
 
 ### SQL
