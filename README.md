@@ -126,6 +126,7 @@ Convert a String to a Number ! | 8 kyu | [Solution Convert a String to a Number 
 | get character from ASCII Value | 8 kyu |[Solution get character from ASCII Value](8Kyu/get-character-from-ASCII-Value/PHP/index.php) |
 | Opposite number | 8 kyu |[Solution Opposite number](8Kyu/Opposite-number/PHP/index.php) |
 | No zeros for heros | 8 kyu |[Solution No zeros for heros](8Kyu/No-zeros-for-heros/PHP/index.php) |
+| Drink about | 8 kyu |[Solution Drink about](8Kyu/Drink-about/PHP/index.php) |
 | Descending Order | 7 kyu |[Solution Descending Order](7Kyu/Descending-Order/PHP/index.php) |
 | Jaden Casing Strings | 7 kyu |[Solution Jaden Casing Strings](7Kyu/Jaden-Casing-Strings/PHP/index.php) |
 | Reverse Words | 7 kyu |[Solution Reverse Words](7Kyu/Reverse-Words/PHP/index.php) |
