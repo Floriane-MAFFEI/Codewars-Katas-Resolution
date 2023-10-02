@@ -88,6 +88,7 @@
 | Categorize New Member | 7 kyu |[Solution Categorize New Member](7Kyu/Categorize-New-Member/JS/index.js) |
 | Testing 1-2-3 | 7 kyu |[Solution Testing 1-2-3](7Kyu/Testing-1-2-3/JS/index.js) |
 | Beginner Series #3 Sum of Numbers | 7 kyu |[Solution Beginner Series #3 Sum of Numbers](7Kyu/Beginner-Series-%233-Sum-of-Numbers/JS/index.js) |
+| Growth of a Population | 7 kyu |[Solution Growth of a Population](7Kyu/Growth-of-a-Population/JS/index.js) |
 
 ### Typescript
 
