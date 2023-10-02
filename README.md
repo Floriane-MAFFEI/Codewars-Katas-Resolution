@@ -148,6 +148,7 @@ Convert a String to a Number ! | 8 kyu | [Solution Convert a String to a Number 
 | Volume of a Cuboid | 8 kyu | [Solution Volume of a Cuboid](8Kyu/Volume-of-a-Cuboid/Ruby/index.rb) |
 | Grasshopper - Basic Function Fixer | 8 kyu | [Solution Grasshopper - Basic Function Fixer](8Kyu/Grasshopper-Basic-Function-Fixer/Ruby/index.rb) |
 | Lario and Muigi Pipe Problem | 8 kyu | [Solution Lario and Muigi Pipe Problem](8Kyu/Lario-and-Muigi-Pipe-Problem/Ruby/index.rb) |
+| Are You Playong Banjo ? | 8 kyu | [Solution Are You Playong Banjo ?](8Kyu/Are-You-Playing-Banjo-%3F/Ruby/index.rb) |
 
 
 ### SQL
