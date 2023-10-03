@@ -16,7 +16,7 @@
 // printer_error(s) => "8/22"
 
 function printerError(s) {
-    const totalCharacters = s.length;
-    const errorCount = s.split('').filter(char => char > 'm').length;
-      return `${errorCount}/${totalCharacters}`;
-  }
+  const totalCharacters = s.length;
+  const errorCount = s.split('').filter(char => char > 'm').length;
+  return `${errorCount}/${totalCharacters}`;
+}
