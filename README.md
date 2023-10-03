@@ -149,6 +149,7 @@ Convert a String to a Number ! | 8 kyu | [Solution Convert a String to a Number 
 | Grasshopper - Basic Function Fixer | 8 kyu | [Solution Grasshopper - Basic Function Fixer](8Kyu/Grasshopper-Basic-Function-Fixer/Ruby/index.rb) |
 | Lario and Muigi Pipe Problem | 8 kyu | [Solution Lario and Muigi Pipe Problem](8Kyu/Lario-and-Muigi-Pipe-Problem/Ruby/index.rb) |
 | Are You Playong Banjo ? | 8 kyu | [Solution Are You Playong Banjo ?](8Kyu/Are-You-Playing-Banjo-%3F/Ruby/index.rb) |
+| Opposites Attract | 8 kyu | [Solution Opposites Attract](8Kyu/Opposite-Attract/Ruby/index.rb) |
 
 
 ### SQL
