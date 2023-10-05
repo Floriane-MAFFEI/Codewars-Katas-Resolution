@@ -105,42 +105,43 @@
 
 ### PHP
 
-| Kata's name                                             | Level | Lien                                                                                                                           |
-| ------------------------------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------------ |
-| Convert a Number to a String                            | 8 kyu | [Solution Convert a Number to a String](8Kyu/Convert-a-Number-to-a-String/PHP/index.php)                                       |
-| Convert boolean values to strings 'Yes' or 'No'         | 8 kyu | [Solution Convert boolean values to strings 'Yes' or 'No'](8Kyu/Convert-boolean-values-to-strings-'Yes'-or-'No'/PHP/index.php) |
-| Sum Arrays                                              | 8 kyu | [Solution Sums Array](8Kyu/Sum-Arrays/PHP/index.php)                                                                           |
-| Convert a string to an array                            | 8 kyu | [Solution Convert a string to an array](8Kyu/Convert-a-string-to-an-array/PHP/index.php)                                       |
-| Will you make it ?                                      | 8 kyu | [Solution Will you make it ?](8Kyu/Will-you-make-it-%3F/PHP/index.php)                                                         |
-| Find the smallest Integer in the array                  | 8 kyu | [Solution Will you make it ?Find the smallest Integer in the](8Kyu/Will-you-make-it-%3F/PHP/index.php)                         |
-| Sum of positive                                         | 8 kyu | [Solution Sum of positive](8Kyu/Sum-of-positive/index.php)                                                                     |
-| Reversed sequence                                       | 8 kyu | [Solution Reversed sequence](8Kyu/Reversed-Sequence/PHP/index.php)                                                             |
-| Reversed string                                         | 8 kyu | [Solution Reversed string](8Kyu/Reversed-String/PHP/index.php)                                                                 |
-| Function 1 - hello world                                | 8 kyu | [Solution Function 1 - hello world](8Kyu/Function-1-hello-world/PHP)                                                           |
-| How good are you really ?                               | 8 kyu | [Solution How good are you really ?](8Kyu/How-good-are-you-really-%3F/PHP/index.php)                                           |
-| Third Angle of a Triangle                               | 8 kyu | [Solution Third Angle of a Triangle](8Kyu/Third-Angle-of-a-Triangle/PHP/index.php)                                             |
-| Convert a String to a Number !                          | 8 kyu | [Solution Convert a String to a Number !](8Kyu/Convert-a-String-to-a-Number-!/PHP/index.php)                                   |
-| Sentence Smash                                          | 8 kyu | [Solution Sentence Smash](8Kyu/Sentence-Smash/PHP/index.php)                                                                   |
-| I love you, a little, a lot, passionately ...not at all | 8 kyu | [Solution I love you, a little, a lot, passionately ...not at all](8Kyu/I-Love-you-a-little-a-lot-etc/PHP/index.php)           |
-| Is the string uppercase ?                               | 8 kyu | [Solution Is the string uppercase ?](8Kyu/Is-the-string-uppercase/PHP/index.php)                                               |
-| Basic Mathematical Operations                           | 8 kyu | [Solution Basic Mathematical Operations](8Kyu/Basic-Mathematical-Operations/PHP/index.php)                                     |
-| Area or Perimeter                                       | 8 kyu | [Solution Area or Perimeter](8Kyu/Area-or-Perimeter/PHP/index.php)                                                             |
-| Expressions Matter                                      | 8 kyu | [Solution Expressions Matter](8Kyu/Expressions-Matter/PHP/index.php)                                                           |
-| Super Duper Easy                                        | 8 kyu | [Solution Super Duper Easy](8Kyu/Super-Duper-Easy/PHP/index.php)                                                               |
-| Count of positive/sum of negatives                      | 8 kyu | [Solution Count of positive/sum of negatives](8Kyu/Count-of-positive-sum-of-negatives/PHP/index.php)                           |
-| Square(n) Sum                                           | 8 kyu | [Solution Square(n) Sum](<8Kyu/Square-(n)-Sum/PHP/index.php>)                                                                  |
-| get character from ASCII Value                          | 8 kyu | [Solution get character from ASCII Value](8Kyu/get-character-from-ASCII-Value/PHP/index.php)                                   |
-| Opposite number                                         | 8 kyu | [Solution Opposite number](8Kyu/Opposite-number/PHP/index.php)                                                                 |
-| No zeros for heros                                      | 8 kyu | [Solution No zeros for heros](8Kyu/No-zeros-for-heros/PHP/index.php)                                                           |
-| Drink about                                             | 8 kyu | [Solution Drink about](8Kyu/Drink-about/PHP/index.php)                                                                         |
-| Grasshopper - Terminal game move function               | 8 kyu | [Solution Grasshopper - Terminal game move function](8Kyu/Grasshopper-Terminal-game-move-function/PHP/index.php)               |
-| Descending Order                                        | 7 kyu | [Solution Descending Order](7Kyu/Descending-Order/PHP/index.php)                                                               |
-| Jaden Casing Strings                                    | 7 kyu | [Solution Jaden Casing Strings](7Kyu/Jaden-Casing-Strings/PHP/index.php)                                                       |
-| Reverse Words                                           | 7 kyu | [Solution Reverse Words](7Kyu/Reverse-Words/PHP/index.php)                                                                     |
-| Complementary DNA                                       | 7 kyu | [Solution Complementary DNA](7Kyu/Complementary-DNA/PHP/index.php)                                                             |
-| Highest and Lowest                                      | 7 kyu | [Solution Highest and Lowest](7Kyu/Highest-and-Lowest/PHP/index.php)                                                           |
-| Exes and Ohs                                            | 7 kyu | [Solution Exes and Ohs](7Kyu/Exes-and-Ohs/PHP/index.php)                                                                       |
-| String ends with                                        | 7 kyu | [Solution String ends with](7Kyu/String-ends-with/PHP/index.php)                                                               |
+| Kata's name                                                | Level | Lien                                                                                                                                                 |
+| ---------------------------------------------------------- | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Convert a Number to a String                               | 8 kyu | [Solution Convert a Number to a String](8Kyu/Convert-a-Number-to-a-String/PHP/index.php)                                                             |
+| Convert boolean values to strings 'Yes' or 'No'            | 8 kyu | [Solution Convert boolean values to strings 'Yes' or 'No'](8Kyu/Convert-boolean-values-to-strings-'Yes'-or-'No'/PHP/index.php)                       |
+| Sum Arrays                                                 | 8 kyu | [Solution Sums Array](8Kyu/Sum-Arrays/PHP/index.php)                                                                                                 |
+| Convert a string to an array                               | 8 kyu | [Solution Convert a string to an array](8Kyu/Convert-a-string-to-an-array/PHP/index.php)                                                             |
+| Will you make it ?                                         | 8 kyu | [Solution Will you make it ?](8Kyu/Will-you-make-it-%3F/PHP/index.php)                                                                               |
+| Find the smallest Integer in the array                     | 8 kyu | [Solution Will you make it ?Find the smallest Integer in the](8Kyu/Will-you-make-it-%3F/PHP/index.php)                                               |
+| Sum of positive                                            | 8 kyu | [Solution Sum of positive](8Kyu/Sum-of-positive/index.php)                                                                                           |
+| Reversed sequence                                          | 8 kyu | [Solution Reversed sequence](8Kyu/Reversed-Sequence/PHP/index.php)                                                                                   |
+| Reversed string                                            | 8 kyu | [Solution Reversed string](8Kyu/Reversed-String/PHP/index.php)                                                                                       |
+| Function 1 - hello world                                   | 8 kyu | [Solution Function 1 - hello world](8Kyu/Function-1-hello-world/PHP)                                                                                 |
+| How good are you really ?                                  | 8 kyu | [Solution How good are you really ?](8Kyu/How-good-are-you-really-%3F/PHP/index.php)                                                                 |
+| Third Angle of a Triangle                                  | 8 kyu | [Solution Third Angle of a Triangle](8Kyu/Third-Angle-of-a-Triangle/PHP/index.php)                                                                   |
+| Convert a String to a Number !                             | 8 kyu | [Solution Convert a String to a Number !](8Kyu/Convert-a-String-to-a-Number-!/PHP/index.php)                                                         |
+| Sentence Smash                                             | 8 kyu | [Solution Sentence Smash](8Kyu/Sentence-Smash/PHP/index.php)                                                                                         |
+| I love you, a little, a lot, passionately ...not at all    | 8 kyu | [Solution I love you, a little, a lot, passionately ...not at all](8Kyu/I-Love-you-a-little-a-lot-etc/PHP/index.php)                                 |
+| Is the string uppercase ?                                  | 8 kyu | [Solution Is the string uppercase ?](8Kyu/Is-the-string-uppercase/PHP/index.php)                                                                     |
+| Basic Mathematical Operations                              | 8 kyu | [Solution Basic Mathematical Operations](8Kyu/Basic-Mathematical-Operations/PHP/index.php)                                                           |
+| Area or Perimeter                                          | 8 kyu | [Solution Area or Perimeter](8Kyu/Area-or-Perimeter/PHP/index.php)                                                                                   |
+| Expressions Matter                                         | 8 kyu | [Solution Expressions Matter](8Kyu/Expressions-Matter/PHP/index.php)                                                                                 |
+| Super Duper Easy                                           | 8 kyu | [Solution Super Duper Easy](8Kyu/Super-Duper-Easy/PHP/index.php)                                                                                     |
+| Count of positive/sum of negatives                         | 8 kyu | [Solution Count of positive/sum of negatives](8Kyu/Count-of-positive-sum-of-negatives/PHP/index.php)                                                 |
+| Square(n) Sum                                              | 8 kyu | [Solution Square(n) Sum](<8Kyu/Square-(n)-Sum/PHP/index.php>)                                                                                        |
+| get character from ASCII Value                             | 8 kyu | [Solution get character from ASCII Value](8Kyu/get-character-from-ASCII-Value/PHP/index.php)                                                         |
+| Opposite number                                            | 8 kyu | [Solution Opposite number](8Kyu/Opposite-number/PHP/index.php)                                                                                       |
+| No zeros for heros                                         | 8 kyu | [Solution No zeros for heros](8Kyu/No-zeros-for-heros/PHP/index.php)                                                                                 |
+| Drink about                                                | 8 kyu | [Solution Drink about](8Kyu/Drink-about/PHP/index.php)                                                                                               |
+| Grasshopper - Terminal game move function                  | 8 kyu | [Solution Grasshopper - Terminal game move function](8Kyu/Grasshopper-Terminal-game-move-function/PHP/index.php)                                     |
+| Correct the mistakes of the character recognition software | 8 kyu | [Solution Correct the mistakes of the character recognition software](8Kyu/Correct-the-mistakes-of-the-character-recognition-software/PHP/index.php) |
+| Descending Order                                           | 7 kyu | [Solution Descending Order](7Kyu/Descending-Order/PHP/index.php)                                                                                     |
+| Jaden Casing Strings                                       | 7 kyu | [Solution Jaden Casing Strings](7Kyu/Jaden-Casing-Strings/PHP/index.php)                                                                             |
+| Reverse Words                                              | 7 kyu | [Solution Reverse Words](7Kyu/Reverse-Words/PHP/index.php)                                                                                           |
+| Complementary DNA                                          | 7 kyu | [Solution Complementary DNA](7Kyu/Complementary-DNA/PHP/index.php)                                                                                   |
+| Highest and Lowest                                         | 7 kyu | [Solution Highest and Lowest](7Kyu/Highest-and-Lowest/PHP/index.php)                                                                                 |
+| Exes and Ohs                                               | 7 kyu | [Solution Exes and Ohs](7Kyu/Exes-and-Ohs/PHP/index.php)                                                                                             |
+| String ends with                                           | 7 kyu | [Solution String ends with](7Kyu/String-ends-with/PHP/index.php)                                                                                     |
 
 ### Ruby
 
