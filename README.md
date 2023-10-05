@@ -86,6 +86,7 @@
 | If you can't sleep, just count sheep !!    | 8 kyu | [Solution If you can't sleep, just count sheep !!](8Kyu/If-you-can't-sleep-jsut-count-sheep/JS/index.js)           |
 | Grasshopper - Grade book                   | 8 kyu | [Solution Grasshopper - Grade book](8Kyu/Grasshopper-Grade-book/JS/index.js)                                       |
 | Removing Elements                          | 8 kyu | [Solution Removing Elements](8Kyu/Removing-Elements/JS/index.js)                                                   |
+| Powers of 2                                | 8 kyu | [Solution Powers of 2](8Kyu/Power-of-2/JS/index.js)                                                                |
 | Binary Addition                            | 7 kyu | [Solution Binary Addition](7Kyu/Binary-Addition/JS/index.js)                                                       |
 | You're a square!                           | 7 kyu | [Solution You're a square!](7Kyu/You're-a-square/JS/index.js)                                                      |
 | Categorize New Member                      | 7 kyu | [Solution Categorize New Member](7Kyu/Categorize-New-Member/JS/index.js)                                           |
