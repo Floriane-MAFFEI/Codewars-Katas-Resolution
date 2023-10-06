@@ -34,8 +34,9 @@
 
 ## Solution By level
 
-[8 Kyu](https://github.com/Floriane-MAFFEI/Codewars-Katas-Resolution/tree/master/8Kyu)
-[7 Kyu](https://github.com/Floriane-MAFFEI/Codewars-Katas-Resolution/tree/master/7Kyu)
+- [8 Kyu](https://github.com/Floriane-MAFFEI/Codewars-Katas-Resolution/tree/master/8Kyu)
+
+- [7 Kyu](https://github.com/Floriane-MAFFEI/Codewars-Katas-Resolution/tree/master/7Kyu)
 
 ## Repository Structure
 
@@ -135,6 +136,7 @@
 | Drink about                                                | 8 kyu | [Solution Drink about](8Kyu/Drink-about/PHP/index.php)                                                                                               |
 | Grasshopper - Terminal game move function                  | 8 kyu | [Solution Grasshopper - Terminal game move function](8Kyu/Grasshopper-Terminal-game-move-function/PHP/index.php)                                     |
 | Correct the mistakes of the character recognition software | 8 kyu | [Solution Correct the mistakes of the character recognition software](8Kyu/Correct-the-mistakes-of-the-character-recognition-software/PHP/index.php) |
+| L1:Bartender,drinks !                                      | 8 kyu | [Solution L1:Bartender,drinks !](8Kyu/L1-Bartender-drinks/PHP/index.php)                                                                             |
 | Descending Order                                           | 7 kyu | [Solution Descending Order](7Kyu/Descending-Order/PHP/index.php)                                                                                     |
 | Jaden Casing Strings                                       | 7 kyu | [Solution Jaden Casing Strings](7Kyu/Jaden-Casing-Strings/PHP/index.php)                                                                             |
 | Reverse Words                                              | 7 kyu | [Solution Reverse Words](7Kyu/Reverse-Words/PHP/index.php)                                                                                           |
