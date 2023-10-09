@@ -160,6 +160,7 @@
 | Lario and Muigi Pipe Problem       | 8 kyu | [Solution Lario and Muigi Pipe Problem](8Kyu/Lario-and-Muigi-Pipe-Problem/Ruby/index.rb)           |
 | Are You Playong Banjo ?            | 8 kyu | [Solution Are You Playong Banjo ?](8Kyu/Are-You-Playing-Banjo-%3F/Ruby/index.rb)                   |
 | Opposites Attract                  | 8 kyu | [Solution Opposites Attract](8Kyu/Opposite-Attract/Ruby/index.rb)                                  |
+| Convert a Boolean to a String      | 8 kyu | [Solution Convert a Boolean to a String](8Kyu/Convert-a-Boolean-to-a-String/Ruby/index.rb)         |
 
 ### SQL
 
