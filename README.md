@@ -149,18 +149,19 @@
 
 ### Ruby
 
-| Kata's name                        | Level | Lien                                                                                               |
-| ---------------------------------- | ----- | -------------------------------------------------------------------------------------------------- |
-| Convert a Number to a String       | 8 kyu | [Solution Convert a Number to a String](8Kyu/Convert-a-Number-to-a-String/Ruby/index.rb)           |
-| Grasshopper - Personalized Message | 8 kyu | [Solution Grasshopper - Personalized Message](8Kyu/Grasshopper-Personalized-Message/Ruby/index.rb) |
-| Vowel remover                      | 8 kyu | [Solution Vowel remover](8Kyu/Vowel-remover/Ruby/index.rb)                                         |
-| String repeat                      | 8 kyu | [Solution String repeat](8Kyu/String-repeat/Ruby/index.rb)                                         |
-| Volume of a Cuboid                 | 8 kyu | [Solution Volume of a Cuboid](8Kyu/Volume-of-a-Cuboid/Ruby/index.rb)                               |
-| Grasshopper - Basic Function Fixer | 8 kyu | [Solution Grasshopper - Basic Function Fixer](8Kyu/Grasshopper-Basic-Function-Fixer/Ruby/index.rb) |
-| Lario and Muigi Pipe Problem       | 8 kyu | [Solution Lario and Muigi Pipe Problem](8Kyu/Lario-and-Muigi-Pipe-Problem/Ruby/index.rb)           |
-| Are You Playong Banjo ?            | 8 kyu | [Solution Are You Playong Banjo ?](8Kyu/Are-You-Playing-Banjo-%3F/Ruby/index.rb)                   |
-| Opposites Attract                  | 8 kyu | [Solution Opposites Attract](8Kyu/Opposite-Attract/Ruby/index.rb)                                  |
-| Convert a Boolean to a String      | 8 kyu | [Solution Convert a Boolean to a String](8Kyu/Convert-a-Boolean-to-a-String/Ruby/index.rb)         |
+| Kata's name                             | Level | Lien                                                                                                         |
+| --------------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------ |
+| Convert a Number to a String            | 8 kyu | [Solution Convert a Number to a String](8Kyu/Convert-a-Number-to-a-String/Ruby/index.rb)                     |
+| Grasshopper - Personalized Message      | 8 kyu | [Solution Grasshopper - Personalized Message](8Kyu/Grasshopper-Personalized-Message/Ruby/index.rb)           |
+| Vowel remover                           | 8 kyu | [Solution Vowel remover](8Kyu/Vowel-remover/Ruby/index.rb)                                                   |
+| String repeat                           | 8 kyu | [Solution String repeat](8Kyu/String-repeat/Ruby/index.rb)                                                   |
+| Volume of a Cuboid                      | 8 kyu | [Solution Volume of a Cuboid](8Kyu/Volume-of-a-Cuboid/Ruby/index.rb)                                         |
+| Grasshopper - Basic Function Fixer      | 8 kyu | [Solution Grasshopper - Basic Function Fixer](8Kyu/Grasshopper-Basic-Function-Fixer/Ruby/index.rb)           |
+| Lario and Muigi Pipe Problem            | 8 kyu | [Solution Lario and Muigi Pipe Problem](8Kyu/Lario-and-Muigi-Pipe-Problem/Ruby/index.rb)                     |
+| Are You Playong Banjo ?                 | 8 kyu | [Solution Are You Playong Banjo ?](8Kyu/Are-You-Playing-Banjo-%3F/Ruby/index.rb)                             |
+| Opposites Attract                       | 8 kyu | [Solution Opposites Attract](8Kyu/Opposite-Attract/Ruby/index.rb)                                            |
+| Convert a Boolean to a String           | 8 kyu | [Solution Convert a Boolean to a String](8Kyu/Convert-a-Boolean-to-a-String/Ruby/index.rb)                   |
+| Grasshopper - Function syntax debugging | 8 kyu | [Solution Grasshopper - Function syntax debugging](8Kyu/Grasshopper-Function-syntax-debugging/Ruby/index.rb) |
 
 ### SQL
 
