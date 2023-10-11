@@ -93,6 +93,7 @@
 | Parse nice int from char problem           | 8 kyu | [Solution Parse nice int from char problem](8Kyu/Parse-nice-int-from-char-problem/JS/index.js)                     |
 | What's the real floor?                     | 8 kyu | [Solution What's the real floor?](8Kyu/What's-the-real-floor-%3F/JS/index.js)                                      |
 | Switch it Up!                              | 8 kyu | [Solution Switch it Up!](8Kyu/Switch-it-Up!/JS/index.js)                                                           |
+| Invert values                              | 8 kyu | [Solution Invert values](8Kyu/Invert-values/JS/index.js)                                                           |
 | Binary Addition                            | 7 kyu | [Solution Binary Addition](7Kyu/Binary-Addition/JS/index.js)                                                       |
 | You're a square!                           | 7 kyu | [Solution You're a square!](7Kyu/You're-a-square/JS/index.js)                                                      |
 | Categorize New Member                      | 7 kyu | [Solution Categorize New Member](7Kyu/Categorize-New-Member/JS/index.js)                                           |
