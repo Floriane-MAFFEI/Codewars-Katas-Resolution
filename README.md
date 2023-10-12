@@ -102,7 +102,8 @@
 | Growth of a Population                     | 7 kyu | [Solution Growth of a Population](7Kyu/Growth-of-a-Population/JS/index.js)                                         |
 | Printer Errors                             | 7 kyu | [Solution Printer Errors](7Kyu/Printer-Errors/JS/index.js)                                                         |
 | Remove anchor from URL                     | 7 kyu | [Solution Remove anchor from URL](7Kyu/isemvowel-Trolls/JS/index.js)                                               |
-| Disemvowel Trolls                          | 7 kyu | [Solution Disemvowel Trolls](7Kyu/isemvowel-Trolls/JS/index.js)                                                    |
+| Disemvowel Trolls                          | 7 kyu | [Solution Disemvowel Trolls](7Kyu/Disemvowel-Trolls/JS/index.js)                                                   |
+| Count the divisors of a number             | 7 kyu | [Solution Count the divisors of a number](7Kyu/Count-the-divisors-of-a-number/JS/index.js)                         |
 
 ### Typescript
 
