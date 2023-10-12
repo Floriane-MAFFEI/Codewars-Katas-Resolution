@@ -101,7 +101,8 @@
 | Beginner Series #3 Sum of Numbers          | 7 kyu | [Solution Beginner Series #3 Sum of Numbers](7Kyu/Beginner-Series-%233-Sum-of-Numbers/JS/index.js)                 |
 | Growth of a Population                     | 7 kyu | [Solution Growth of a Population](7Kyu/Growth-of-a-Population/JS/index.js)                                         |
 | Printer Errors                             | 7 kyu | [Solution Printer Errors](7Kyu/Printer-Errors/JS/index.js)                                                         |
-| Remove anchor from URL                     | 7 kyu | [Solution Remove anchor from URL](7Kyu/Remove-anchor-form-URL/JS/index.js)                                         |
+| Remove anchor from URL                     | 7 kyu | [Solution Remove anchor from URL](7Kyu/isemvowel-Trolls/JS/index.js)                                               |
+| Disemvowel Trolls                          | 7 kyu | [Solution Disemvowel Trolls](7Kyu/isemvowel-Trolls/JS/index.js)                                                    |
 
 ### Typescript
 
