@@ -38,6 +38,8 @@
 
 - [7 Kyu](https://github.com/Floriane-MAFFEI/Codewars-Katas-Resolution/tree/master/7Kyu)
 
+- [7 Kyu](https://github.com/Floriane-MAFFEI/Codewars-Katas-Resolution/tree/master/6Kyu)
+
 ## Repository Structure
 
 ```ascii
@@ -104,6 +106,7 @@
 | Remove anchor from URL                     | 7 kyu | [Solution Remove anchor from URL](7Kyu/isemvowel-Trolls/JS/index.js)                                               |
 | Disemvowel Trolls                          | 7 kyu | [Solution Disemvowel Trolls](7Kyu/Disemvowel-Trolls/JS/index.js)                                                   |
 | Count the divisors of a number             | 7 kyu | [Solution Count the divisors of a number](7Kyu/Count-the-divisors-of-a-number/JS/index.js)                         |
+| Break camelCase                            | 6 kyu | [Solution Break camelCase](6Kyu/Break-camelCase/JS/index.js)                                                       |
 
 ### Typescript
 
