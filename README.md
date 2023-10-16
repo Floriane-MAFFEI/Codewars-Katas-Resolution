@@ -178,6 +178,7 @@
 | Opposites Attract                       | 8 kyu | [Solution Opposites Attract](8Kyu/Opposite-Attract/Ruby/index.rb)                                            |
 | Convert a Boolean to a String           | 8 kyu | [Solution Convert a Boolean to a String](8Kyu/Convert-a-Boolean-to-a-String/Ruby/index.rb)                   |
 | Grasshopper - Function syntax debugging | 8 kyu | [Solution Grasshopper - Function syntax debugging](8Kyu/Grasshopper-Function-syntax-debugging/Ruby/index.rb) |
+| Plural                                  | 8 kyu | [Solution Plural](8Kyu/Plural/Ruby/index.rb)                                                                 |
 
 ### SQL
 
