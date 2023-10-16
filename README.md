@@ -160,6 +160,7 @@
 | Exes and Ohs                                               | 7 kyu | [Solution Exes and Ohs](7Kyu/Exes-and-Ohs/PHP/index.php)                                                                                             |
 | String ends with                                           | 7 kyu | [Solution String ends with](7Kyu/String-ends-with/PHP/index.php)                                                                                     |
 | Ones and Zeros                                             | 7 kyu | [Solution Ones and Zeros](7Kyu/Ones-and-Zeros/PHP/index.php)                                                                                         |
+| Odd or Even ?                                              | 7 kyu | [Solution Odd or Even ?](7Kyu/Odd-or-Even-%3F/PHP/index.php)                                                                                         |
 
 ### Ruby
 
