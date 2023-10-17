@@ -215,6 +215,7 @@
 | SQL Basics : Simple JOIN                        | 7 kyu | [Solution SQL Basics : Simple JOIN](7Kyu/SQL-Basics-Simple-JOIN/SQL/index.sql)                                                     |
 | Hello SQL World!                                | 7 kyu | [Solution Hello SQL World!](7Kyu/Hello-SQL-World/SQL/index.sql)                                                                    |
 | Easy SQL : Moving Values                        | 7 kyu | [Solution Easy SQL : Moving Values](7Kyu/Easy-SQL-Moving-Values/SQL/index.sql)                                                     |
+| SQL:Disorder                                    | 7 kyu | [Solution SQL:Disorder](7Kyu/SQL-Disorder/SQL/index.sql)                                                                           |
 
 ### PowerShell
 
