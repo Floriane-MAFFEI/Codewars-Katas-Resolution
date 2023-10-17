@@ -203,6 +203,7 @@
 | SQL Basics : Mod                                | 8 kyu | [Solution SQL Basics : Mod](8Kyu/SQL-Basics-Mod/SQL/index.sql)                                                                     |
 | Remove String Spaces                            | 8 kyu | [Solution Remove String Spaces](8Kyu/Remove-String-Spaces/SQL/index.sql)                                                           |
 | Vowel Count                                     | 8 kyu | [Solution Vowel Count](8Kyu/Vowel-Count/SQL/index.sql)                                                                             |
+| Even or Odd                                     | 8 kyu | [Solution Even or Odd](8Kyu/Even-or-Odd/SQL/index.sql)                                                                             |
 | SQL Basics - Trimming the Field                 | 7 kyu | [Solution SQL Basics - Trimming the Field](7Kyu/SQL-Basics-Trimming-the-Field/SQL/index.sql)                                       |
 | SQL Basics - Repeat and Reverse                 | 7 kyu | [Solution SQL Basics - Repeat and Reverse](7Kyu/SQL-Basics-Repeat-and-Reverse/SQL/index.sql)                                       |
 | Best-Selling Books (SQL for Beginners #5)       | 7 kyu | [Solution Best-Selling Books (SQL for Beginners #5)](7Kyu/Best-Selling-Books-SQL-for-Beginners-%235/SQL/index.sql)                 |
@@ -213,7 +214,7 @@
 | GROCERY STORE : Inventory                       | 7 kyu | [Solution GROCERY STORE : Inventory](7Kyu/GROCERY-STORE-Inventory/SQL/index.sql)                                                   |
 | SQL Basics : Simple JOIN                        | 7 kyu | [Solution SQL Basics : Simple JOIN](7Kyu/SQL-Basics-Simple-JOIN/SQL/index.sql)                                                     |
 | Hello SQL World!                                | 7 kyu | [Solution Hello SQL World!](7Kyu/Hello-SQL-World/SQL/index.sql)                                                                    |
-| Even or Odd                                     | 8 kyu | [Solution Even or Odd](8Kyu/Even-or-Odd/SQL/index.sql)                                                                             |
+| Easy SQL : Moving Values                        | 7 kyu | [Solution Easy SQL : Moving Values](7Kyu/Easy-SQL-Moving-Values/SQL/index.sql)                                                     |
 
 ### PowerShell
 
