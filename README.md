@@ -213,6 +213,7 @@
 | GROCERY STORE : Inventory                       | 7 kyu | [Solution GROCERY STORE : Inventory](7Kyu/GROCERY-STORE-Inventory/SQL/index.sql)                                                   |
 | SQL Basics : Simple JOIN                        | 7 kyu | [Solution SQL Basics : Simple JOIN](7Kyu/SQL-Basics-Simple-JOIN/SQL/index.sql)                                                     |
 | Hello SQL World!                                | 7 kyu | [Solution Hello SQL World!](7Kyu/Hello-SQL-World/SQL/index.sql)                                                                    |
+| Even or Odd                                     | 8 kyu | [Solution Even or Odd](8Kyu/Even-or-Odd/SQL/index.sql)                                                                             |
 
 ### PowerShell
 
