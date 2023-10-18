@@ -97,6 +97,7 @@
 | Switch it Up!                              | 8 kyu | [Solution Switch it Up!](8Kyu/Switch-it-Up!/JS/index.js)                                                           |
 | Invert values                              | 8 kyu | [Solution Invert values](8Kyu/Invert-values/JS/index.js)                                                           |
 | Is he gonna survive?                       | 8 kyu | [Solution Is he gonna survive?](8Kyu/Is-he-gonna-survive-%3F/JS/index.js)                                          |
+| Get Planet Name By ID                      | 8 kyu | [Solution Get Planet Name By ID](8Kyu/Get-Planet-Name-By-ID/JS/index.js)                                           |
 | Binary Addition                            | 7 kyu | [Solution Binary Addition](7Kyu/Binary-Addition/JS/index.js)                                                       |
 | You're a square!                           | 7 kyu | [Solution You're a square!](7Kyu/You're-a-square/JS/index.js)                                                      |
 | Categorize New Member                      | 7 kyu | [Solution Categorize New Member](7Kyu/Categorize-New-Member/JS/index.js)                                           |
