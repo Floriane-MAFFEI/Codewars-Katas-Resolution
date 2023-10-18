@@ -153,6 +153,7 @@
 | L1:Bartender,drinks !                                      | 8 kyu | [Solution L1:Bartender,drinks !](8Kyu/L1-Bartender-drinks/PHP/index.php)                                                                             |
 | Hello, Name or World!                                      | 8 kyu | [Solution Hello, Name or World! ](8Kyu/Hello-Name-or-World/PHP/index.php)                                                                            |
 | Find the position!                                         | 8 kyu | [Solution Find the position! ](8Kyu/Find-the-Position/PHP/index.php)                                                                                 |
+| Calculate Price Excluding VAT                              | 8 kyu | [Solution Calculate Price Excluding VAT ](8Kyu/Calculate-Price-Excluding-VAT/PHP/index.php)                                                          |
 | Descending Order                                           | 7 kyu | [Solution Descending Order](7Kyu/Descending-Order/PHP/index.php)                                                                                     |
 | Jaden Casing Strings                                       | 7 kyu | [Solution Jaden Casing Strings](7Kyu/Jaden-Casing-Strings/PHP/index.php)                                                                             |
 | Reverse Words                                              | 7 kyu | [Solution Reverse Words](7Kyu/Reverse-Words/PHP/index.php)                                                                                           |
