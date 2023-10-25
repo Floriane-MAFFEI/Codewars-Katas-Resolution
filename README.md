@@ -99,6 +99,7 @@
 | Is he gonna survive?                       | 8 kyu | [Solution Is he gonna survive?](8Kyu/Is-he-gonna-survive-%3F/JS/index.js)                                          |
 | Get Planet Name By ID                      | 8 kyu | [Solution Get Planet Name By ID](8Kyu/Get-Planet-Name-By-ID/JS/index.js)                                           |
 | Neutralisation                             | 8 kyu | [Solution Neutralisation](8Kyu/Neutralisation/JS/index.js)                                                         |
+| Reverse List Order                         | 8 kyu | [Solution Reverse List Order](8Kyu/Reverse-List-Order/JS/index.js)                                                 |
 | Binary Addition                            | 7 kyu | [Solution Binary Addition](7Kyu/Binary-Addition/JS/index.js)                                                       |
 | You're a square!                           | 7 kyu | [Solution You're a square!](7Kyu/You're-a-square/JS/index.js)                                                      |
 | Categorize New Member                      | 7 kyu | [Solution Categorize New Member](7Kyu/Categorize-New-Member/JS/index.js)                                           |
