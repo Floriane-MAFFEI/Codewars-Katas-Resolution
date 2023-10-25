@@ -68,50 +68,51 @@
 
 ### JS (Javascript)
 
-| Kata's name                                | Level | Lien                                                                                                               |
-| ------------------------------------------ | ----- | ------------------------------------------------------------------------------------------------------------------ |
-| Count by X                                 | 8 kyu | [Solution Count by X](8Kyu/Count-by-X/JS/index.js)                                                                 |
-| DNA to RNA Conversion                      | 8 kyu | [Solution DNA to RNA Conversion](8Kyu/DNA-to-RNA-Conversion/JS/index.js)                                           |
-| Remove First and Last Character            | 8 kyu | [Solution Remove First and Last Character](8Kyu/Remove-First-and-Last-Character/JS/index.js)                       |
-| Remove Keep Hydrated !                     | 8 kyu | [Solution Keep Hydrated !](8Kyu/Keep-Hydrated-!/JS/index.js)                                                       |
-| Reversed sequence                          | 8 kyu | [Solution Reversed sequence](8Kyu/Reversed-Sequence/JS/index.js)                                                   |
-| You Can't Code Under Pressure #1           | 8 kyu | [Solution You Can't Code Under Pressure #1](8Kyu/You-Can't-Code-Under-Pressure-%231/JS/index.js)                   |
-| You only need one - Beginner               | 8 kyu | [Solution You only need one - Beginner](8Kyu/You-only-need-one-Beginner/index.js)                                  |
-| Sum Mixed Array                            | 8 kyu | [Solution Sum Mixed Array](8Kyu/Sum-Mixed-Array/JS/index.js)                                                       |
-| Function 1 - hello world                   | 8 kyu | [Solution Function 1 - hello world](8Kyu/Function-1-hello-world/JS)                                                |
-| Remove exclamation marks                   | 8 kyu | [Solution Remove exclamation marks](8Kyu/Remove-exclamation-marks/JS/index.js)                                     |
-| Counting sheep                             | 8 kyu | [Solution Counting sheep](8Kyu/Counting-sheep/JS/index.js)                                                         |
-| Convert number to reversed array of digits | 8 kyu | [Solution Convert number to reversed array of digits](8Kyu/Convert-number-to-reversed-array-of-digits/JS/index.js) |
-| L1:Set Alarm                               | 8 kyu | [Solution L1:SetAlarm](8Kyu/L1-SetAlarm/JS/index.js)                                                               |
-| Beginner - Reduce but Grow                 | 8 kyu | [Solution Beginner - Reduce but Grow](8Kyu/Beginner-Reduce-but-Grow/JS/index.js)                                   |
-| Will there be enough space ?               | 8 kyu | [Solution Will there be enough space ?](8Kyu/Will-there-be-enough-space-%3F/JS/index.js)                           |
-| Beginner Series #4 Cockroach               | 8 kyu | [Solution Beginner Series #4 Cockroach](8Kyu/Beginner-Series-%234-Cockroach/JS/index.js)                           |
-| If you can't sleep, just count sheep !!    | 8 kyu | [Solution If you can't sleep, just count sheep !!](8Kyu/If-you-can't-sleep-jsut-count-sheep/JS/index.js)           |
-| Grasshopper - Grade book                   | 8 kyu | [Solution Grasshopper - Grade book](8Kyu/Grasshopper-Grade-book/JS/index.js)                                       |
-| Removing Elements                          | 8 kyu | [Solution Removing Elements](8Kyu/Removing-Elements/JS/index.js)                                                   |
-| Powers of 2                                | 8 kyu | [Solution Powers of 2](8Kyu/Power-of-2/JS/index.js)                                                                |
-| What is between ?                          | 8 kyu | [Solution What is between ?](8Kyu/What-is-between-%3F/JS/index.js)                                                 |
-| Rock Paper Scissors!                       | 8 kyu | [Solution Rock Paper Scissors!](8Kyu/Rock-Paper-Scissors-!/JS/index.js)                                            |
-| Parse nice int from char problem           | 8 kyu | [Solution Parse nice int from char problem](8Kyu/Parse-nice-int-from-char-problem/JS/index.js)                     |
-| What's the real floor?                     | 8 kyu | [Solution What's the real floor?](8Kyu/What's-the-real-floor-%3F/JS/index.js)                                      |
-| Switch it Up!                              | 8 kyu | [Solution Switch it Up!](8Kyu/Switch-it-Up!/JS/index.js)                                                           |
-| Invert values                              | 8 kyu | [Solution Invert values](8Kyu/Invert-values/JS/index.js)                                                           |
-| Is he gonna survive?                       | 8 kyu | [Solution Is he gonna survive?](8Kyu/Is-he-gonna-survive-%3F/JS/index.js)                                          |
-| Get Planet Name By ID                      | 8 kyu | [Solution Get Planet Name By ID](8Kyu/Get-Planet-Name-By-ID/JS/index.js)                                           |
-| Neutralisation                             | 8 kyu | [Solution Neutralisation](8Kyu/Neutralisation/JS/index.js)                                                         |
-| Reverse List Order                         | 8 kyu | [Solution Reverse List Order](8Kyu/Reverse-List-Order/JS/index.js)                                                 |
-| Binary Addition                            | 7 kyu | [Solution Binary Addition](7Kyu/Binary-Addition/JS/index.js)                                                       |
-| You're a square!                           | 7 kyu | [Solution You're a square!](7Kyu/You're-a-square/JS/index.js)                                                      |
-| Categorize New Member                      | 7 kyu | [Solution Categorize New Member](7Kyu/Categorize-New-Member/JS/index.js)                                           |
-| Testing 1-2-3                              | 7 kyu | [Solution Testing 1-2-3](7Kyu/Testing-1-2-3/JS/index.js)                                                           |
-| Beginner Series #3 Sum of Numbers          | 7 kyu | [Solution Beginner Series #3 Sum of Numbers](7Kyu/Beginner-Series-%233-Sum-of-Numbers/JS/index.js)                 |
-| Growth of a Population                     | 7 kyu | [Solution Growth of a Population](7Kyu/Growth-of-a-Population/JS/index.js)                                         |
-| Printer Errors                             | 7 kyu | [Solution Printer Errors](7Kyu/Printer-Errors/JS/index.js)                                                         |
-| Remove anchor from URL                     | 7 kyu | [Solution Remove anchor from URL](7Kyu/isemvowel-Trolls/JS/index.js)                                               |
-| Disemvowel Trolls                          | 7 kyu | [Solution Disemvowel Trolls](7Kyu/Disemvowel-Trolls/JS/index.js)                                                   |
-| Count the divisors of a number             | 7 kyu | [Solution Count the divisors of a number](7Kyu/Count-the-divisors-of-a-number/JS/index.js)                         |
-| Friend or Foe?                             | 7 kyu | [Solution Friend or Foe?](7Kyu/Friend-or-Foe3%F/JS/index.js)                                                       |
-| Break camelCase                            | 6 kyu | [Solution Break camelCase](6Kyu/Break-camelCase/JS/index.js)                                                       |
+| Kata's name                                     | Level | Lien                                                                                                                    |
+| ----------------------------------------------- | ----- | ----------------------------------------------------------------------------------------------------------------------- |
+| Count by X                                      | 8 kyu | [Solution Count by X](8Kyu/Count-by-X/JS/index.js)                                                                      |
+| DNA to RNA Conversion                           | 8 kyu | [Solution DNA to RNA Conversion](8Kyu/DNA-to-RNA-Conversion/JS/index.js)                                                |
+| Remove First and Last Character                 | 8 kyu | [Solution Remove First and Last Character](8Kyu/Remove-First-and-Last-Character/JS/index.js)                            |
+| Remove Keep Hydrated !                          | 8 kyu | [Solution Keep Hydrated !](8Kyu/Keep-Hydrated-!/JS/index.js)                                                            |
+| Reversed sequence                               | 8 kyu | [Solution Reversed sequence](8Kyu/Reversed-Sequence/JS/index.js)                                                        |
+| You Can't Code Under Pressure #1                | 8 kyu | [Solution You Can't Code Under Pressure #1](8Kyu/You-Can't-Code-Under-Pressure-%231/JS/index.js)                        |
+| You only need one - Beginner                    | 8 kyu | [Solution You only need one - Beginner](8Kyu/You-only-need-one-Beginner/index.js)                                       |
+| Sum Mixed Array                                 | 8 kyu | [Solution Sum Mixed Array](8Kyu/Sum-Mixed-Array/JS/index.js)                                                            |
+| Function 1 - hello world                        | 8 kyu | [Solution Function 1 - hello world](8Kyu/Function-1-hello-world/JS)                                                     |
+| Remove exclamation marks                        | 8 kyu | [Solution Remove exclamation marks](8Kyu/Remove-exclamation-marks/JS/index.js)                                          |
+| Counting sheep                                  | 8 kyu | [Solution Counting sheep](8Kyu/Counting-sheep/JS/index.js)                                                              |
+| Convert number to reversed array of digits      | 8 kyu | [Solution Convert number to reversed array of digits](8Kyu/Convert-number-to-reversed-array-of-digits/JS/index.js)      |
+| L1:Set Alarm                                    | 8 kyu | [Solution L1:SetAlarm](8Kyu/L1-SetAlarm/JS/index.js)                                                                    |
+| Beginner - Reduce but Grow                      | 8 kyu | [Solution Beginner - Reduce but Grow](8Kyu/Beginner-Reduce-but-Grow/JS/index.js)                                        |
+| Will there be enough space ?                    | 8 kyu | [Solution Will there be enough space ?](8Kyu/Will-there-be-enough-space-%3F/JS/index.js)                                |
+| Beginner Series #4 Cockroach                    | 8 kyu | [Solution Beginner Series #4 Cockroach](8Kyu/Beginner-Series-%234-Cockroach/JS/index.js)                                |
+| If you can't sleep, just count sheep !!         | 8 kyu | [Solution If you can't sleep, just count sheep !!](8Kyu/If-you-can't-sleep-jsut-count-sheep/JS/index.js)                |
+| Grasshopper - Grade book                        | 8 kyu | [Solution Grasshopper - Grade book](8Kyu/Grasshopper-Grade-book/JS/index.js)                                            |
+| Removing Elements                               | 8 kyu | [Solution Removing Elements](8Kyu/Removing-Elements/JS/index.js)                                                        |
+| Powers of 2                                     | 8 kyu | [Solution Powers of 2](8Kyu/Power-of-2/JS/index.js)                                                                     |
+| What is between ?                               | 8 kyu | [Solution What is between ?](8Kyu/What-is-between-%3F/JS/index.js)                                                      |
+| Rock Paper Scissors!                            | 8 kyu | [Solution Rock Paper Scissors!](8Kyu/Rock-Paper-Scissors-!/JS/index.js)                                                 |
+| Parse nice int from char problem                | 8 kyu | [Solution Parse nice int from char problem](8Kyu/Parse-nice-int-from-char-problem/JS/index.js)                          |
+| What's the real floor?                          | 8 kyu | [Solution What's the real floor?](8Kyu/What's-the-real-floor-%3F/JS/index.js)                                           |
+| Switch it Up!                                   | 8 kyu | [Solution Switch it Up!](8Kyu/Switch-it-Up!/JS/index.js)                                                                |
+| Invert values                                   | 8 kyu | [Solution Invert values](8Kyu/Invert-values/JS/index.js)                                                                |
+| Is he gonna survive?                            | 8 kyu | [Solution Is he gonna survive?](8Kyu/Is-he-gonna-survive-%3F/JS/index.js)                                               |
+| Get Planet Name By ID                           | 8 kyu | [Solution Get Planet Name By ID](8Kyu/Get-Planet-Name-By-ID/JS/index.js)                                                |
+| Neutralisation                                  | 8 kyu | [Solution Neutralisation](8Kyu/Neutralisation/JS/index.js)                                                              |
+| Reverse List Order                              | 8 kyu | [Solution Reverse List Order](8Kyu/Reverse-List-Order/JS/index.js)                                                      |
+| Training JS #7 : if...else and ternary operator | 8 kyu | [Solution Training JS #7 : if...else and ternary operator](8Kyu/Training-JS-7-if-else-and-ternary-operator/JS/index.js) |
+| Binary Addition                                 | 7 kyu | [Solution Binary Addition](7Kyu/Binary-Addition/JS/index.js)                                                            |
+| You're a square!                                | 7 kyu | [Solution You're a square!](7Kyu/You're-a-square/JS/index.js)                                                           |
+| Categorize New Member                           | 7 kyu | [Solution Categorize New Member](7Kyu/Categorize-New-Member/JS/index.js)                                                |
+| Testing 1-2-3                                   | 7 kyu | [Solution Testing 1-2-3](7Kyu/Testing-1-2-3/JS/index.js)                                                                |
+| Beginner Series #3 Sum of Numbers               | 7 kyu | [Solution Beginner Series #3 Sum of Numbers](7Kyu/Beginner-Series-%233-Sum-of-Numbers/JS/index.js)                      |
+| Growth of a Population                          | 7 kyu | [Solution Growth of a Population](7Kyu/Growth-of-a-Population/JS/index.js)                                              |
+| Printer Errors                                  | 7 kyu | [Solution Printer Errors](7Kyu/Printer-Errors/JS/index.js)                                                              |
+| Remove anchor from URL                          | 7 kyu | [Solution Remove anchor from URL](7Kyu/isemvowel-Trolls/JS/index.js)                                                    |
+| Disemvowel Trolls                               | 7 kyu | [Solution Disemvowel Trolls](7Kyu/Disemvowel-Trolls/JS/index.js)                                                        |
+| Count the divisors of a number                  | 7 kyu | [Solution Count the divisors of a number](7Kyu/Count-the-divisors-of-a-number/JS/index.js)                              |
+| Friend or Foe?                                  | 7 kyu | [Solution Friend or Foe?](7Kyu/Friend-or-Foe3%F/JS/index.js)                                                            |
+| Break camelCase                                 | 6 kyu | [Solution Break camelCase](6Kyu/Break-camelCase/JS/index.js)                                                            |
 
 ### Typescript
 
