@@ -112,6 +112,7 @@
 | Disemvowel Trolls                               | 7 kyu | [Solution Disemvowel Trolls](7Kyu/Disemvowel-Trolls/JS/index.js)                                                        |
 | Count the divisors of a number                  | 7 kyu | [Solution Count the divisors of a number](7Kyu/Count-the-divisors-of-a-number/JS/index.js)                              |
 | Friend or Foe?                                  | 7 kyu | [Solution Friend or Foe?](7Kyu/Friend-or-Foe3%F/JS/index.js)                                                            |
+| Anagram Detection                               | 7 kyu | [Solution Anagram Detection](7Kyu/Anagram-Detection/JS/index.js)                                                        |
 | Break camelCase                                 | 6 kyu | [Solution Break camelCase](6Kyu/Break-camelCase/JS/index.js)                                                            |
 
 ### Typescript
