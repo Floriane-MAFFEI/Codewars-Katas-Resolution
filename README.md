@@ -189,6 +189,7 @@
 | Ones and Zeros                                             | 7 kyu | [Solution Ones and Zeros](7Kyu/Ones-and-Zeros/PHP/index.php)                                                                                         |
 | Odd or Even ?                                              | 7 kyu | [Solution Odd or Even ?](7Kyu/Odd-or-Even-%3F/PHP/index.php)                                                                                         |
 | Sum of Minimums!                                           | 7 kyu | [Solution Sum of Minimums!](7Kyu/Sum-of-Minimums!/PHP/index.php)                                                                                     |
+| Count the Digit                                            | 7 kyu | [Solution Count the Digit](7Kyu/Count-the-Digit/PHP/index.php)                                                                                       |
 | Find the unique number                                     | 6 kyu | [Solution Find the unique number](6Kyu/Find-the-unique-number/PHP/index.php)                                                                         |
 | Counting Duplicates                                        | 6 kyu | [Solution Counting Duplicates](6Kyu/Counting-Duplicates/PHP/index.php)                                                                               |
 
