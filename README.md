@@ -134,6 +134,7 @@
 | Friend or Foe?                                                                           | 7 kyu  | [Solution Friend or Foe?](7Kyu/Friend-or-Foe3%F/JS/index.js)                                                                                                                                          |
 | Anagram Detection                                                                        | 7 kyu  | [Solution Anagram Detection](7Kyu/Anagram-Detection/JS/index.js)                                                                                                                                      |
 | Sort Numbers                                                                             | 7 kyu  | [Solution Sort Numbers](7Kyu/Sort-Numbers/JS/index.js)                                                                                                                                                |
+| Summing a number's digits                                                                | 7 kyu  | [Solution Summing a number's digits](7Kyu/Summing-a-numbers-digits/JS/index.js)                                                                                                                       |
 | Break camelCase                                                                          | 6 kyu  | [Solution Break camelCase](6Kyu/Break-camelCase/JS/index.js)                                                                                                                                          |
 
 ### Typescript
