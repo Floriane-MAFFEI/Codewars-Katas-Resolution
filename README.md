@@ -147,6 +147,7 @@
 | Calculate BMI                         | 8 kyu | [Solution Calculate BMI](8Kyu/Calculate-BMI/TS/index.ts)                                               |
 | Beginner - Lost Without a Map         | 8 kyu | [Solution Beginner - Lost Without a Map](8Kyu/Beginner-Lost-Without-a-Map/TS/index.ts)                 |
 | Basic Training : Add item to an Array | 8 kyu | [Solution Basic Training : Add item to an Array](8Kyu/Basic-Training-Add-item-to-an-Array/TS/index.ts) |
+| Square(n) Sum                         | 8 kyu | [Solution Square(n) Sum](8Kyu/Square-n-Sum/TS/index.ts)                                                |
 
 ### PHP
 
