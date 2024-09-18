@@ -38,7 +38,7 @@
 
 - [7 Kyu](https://github.com/Floriane-MAFFEI/Codewars-Katas-Resolution/tree/master/7Kyu)
 
-- [7 Kyu](https://github.com/Floriane-MAFFEI/Codewars-Katas-Resolution/tree/master/6Kyu)
+- [6 Kyu](https://github.com/Floriane-MAFFEI/Codewars-Katas-Resolution/tree/master/6Kyu)
 
 ## Repository Structure
 
